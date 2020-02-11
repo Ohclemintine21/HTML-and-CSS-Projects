@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  	P{
+  		color: blue;
+  		text-align: center;
+  	}
+  </style>
+</head>
+<body>
+	<p>Cool Beans! Text is centered!</p>
+	<p>Styled with CSS</p>
+</body>
+</html>
