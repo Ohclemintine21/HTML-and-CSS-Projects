@@ -34,18 +34,18 @@ h1 {
   line-height: 50px;
   font-weight: 900;
   font-size: 30px;
-  text-transform; uppercase;
+  text-transform: uppercase;
   text-align: center;
   text-shadow: 2px 2px 3px rgba(0,0,0,0.5)  
 }
 
 h1::after {  /* This is the underline */
     display: block;
-    content: **;
+    content: '';
     height: 2px;
     width: 150px;
     background: #E91C1C;
-    margin 5px auto 40px;
+    margin: 5px auto 40px;
     box-shadow: 5px 2px 3px rgba (0,0,0,0.5);
 }
 
@@ -110,12 +110,12 @@ section {
     margin-left: -15px;
 }
 
-.clearfix: after,
-.container: after,
+.clearfix::after,
+.container::after,
 .navbar:after {
     clear: both;
     display: table;
-    content: * *;
+    content: '';
 }
 
 .wrap {
@@ -134,7 +134,7 @@ section {
 .menu-container {
     max-height: 340px;
     margin: 0% auto;
-    content: * *;
+    content: '';
     /* top: 0;
     left: 0; */
     /* position: absolute; */ /* to the top edge of the screen */
