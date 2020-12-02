@@ -96,4 +96,8 @@ Space Webpage CSS styling Home Page
 
   
 
-I was also very proud of the Portfolio site I created which can be viewed in this Repository.
+I was also very proud of the Portfolio site I created which can be viewed in link below
+
+https://github.com/Ohclemintine21/HTML-and-CSS-Projects/tree/master/portfolio
+
+
